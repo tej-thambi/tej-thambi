@@ -3,6 +3,7 @@ I'm Tej, a second-year Linguistics and Computer Science student at UCLA, minorin
 - I'm a software engineering intern at Fullcourt https://www.50four.com/ 
 - I'm passionate about exploring the latest developments in AI/ML along with their societal implications
 - I'm also interested in blockchain and Web3 and how it can revolutionize industries
+
 Here are some ways to reach me:
 - LinkedIn: https://www.linkedin.com/in/tej-thambi-4839521a9/
 - Email: tejthambi09@gmail.com 
