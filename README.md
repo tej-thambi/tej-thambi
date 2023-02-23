@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm Tej, a second-year Linguistics and Computer Science student at UCLA, minoring in Chinese. Some things I'm interested in ...
+- I'm a software engineering intern at Fullcourt https://www.50four.com/ 
+- AI/ML developments along with their societal implications
+- Blockchain and Web3
 
 <!--
 **tej-thambi/tej-thambi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
