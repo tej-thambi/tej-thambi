@@ -6,7 +6,7 @@ I'm Tej, a second-year Linguistics and Computer Science student at UCLA, minorin
 - I'm passionate about exploring the latest developments in AI/ML along with their societal implications
 
 Here are some ways to reach me:
-- [Portfolio](tejthambi.com)
+- [Portfolio](https://tejthambi.com/)
 - [LinkedIn](https://www.linkedin.com/in/tej-thambi-4839521a9/)
 - Email: tejthambi09@gmail.com 
 
