@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Tej, a third-year Linguistics and Computer Science student at UCLA
+I'm Tej, a fourth-year Linguistics and Computer Science student at UCLA
 Here are some ways to reach me:
 - [Portfolio](https://tejthambi.com/)
 - [LinkedIn](https://www.linkedin.com/in/tej-thambi-4839521a9/)
