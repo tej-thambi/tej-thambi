@@ -1,10 +1,5 @@
 ### Hi there 👋
-I'm Tej, a second-year Linguistics and Computer Science student at UCLA, minoring in Chinese. Some things about me...
-- I'm working on research with NLP this summer at the [Vermont Conversation Lab](https://vermontconversationlab.com/)
-- I'm a software engineering intern at [Poppin](https://joinpoppin.com/)
-- I'm a junior developer at [Fullcourt](https://www.50four.com/)
-- I'm passionate about exploring the latest developments in AI/ML along with their societal implications
-
+I'm Tej, a third-year Linguistics and Computer Science student at UCLA
 Here are some ways to reach me:
 - [Portfolio](https://tejthambi.com/)
 - [LinkedIn](https://www.linkedin.com/in/tej-thambi-4839521a9/)
